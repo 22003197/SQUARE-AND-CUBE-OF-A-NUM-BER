@@ -27,6 +27,7 @@ END
 ```
 
 ## OUTPUT
+<img width="700" height="201" alt="sqrt" src="https://github.com/user-attachments/assets/fa41a745-2d84-436b-9fab-71b0ab2c973f" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
