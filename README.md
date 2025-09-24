@@ -27,7 +27,6 @@ END
 ```
 
 ## OUTPUT
-<img width="400" height="115" alt="sqrt" src="https://github.com/user-attachments/assets/6e46a6fe-04a9-4a31-995a-f1da5fad5e3a" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
@@ -65,7 +64,7 @@ END
 
 
 ## OUTPUT
-<img width="400" height="124" alt="cube" src="https://github.com/user-attachments/assets/0855f3de-eb71-4e3a-a3ef-28d03f83b9f1" />
+<img width="700" height="216" alt="cube" src="https://github.com/user-attachments/assets/bba6875f-4fd7-4850-b273-41469e67b3b1" />
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
